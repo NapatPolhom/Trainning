@@ -28,7 +28,7 @@ const count = ref(0)
     <a href="https://github.com/vuejs/language-tools" target="_blank">Volar</a>
     in your IDE for a better DX
   </p>
-  <p class="read-the-docs">Mikeeeeeeeee</p>
+  <p class="read-the-docs">Mikeeeeeeeee2</p>
 </template>
 
 <style scoped>
